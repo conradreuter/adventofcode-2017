@@ -1,0 +1,7 @@
+__pycache__/
+.idea/
+inputs
+test.abe
+*.bat
+output_file
+temp_file
